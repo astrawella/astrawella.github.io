@@ -2,9 +2,9 @@
 :root {
   --header-height: 3rem;
   --font-semi: 600;
-  --hue-color: 109;
-  --first-color: hsl(var(--hue-color), 89%, 60%);
-  --second-color: hsl(var(--hue-color), 56%, 12%);
+  --hue-color: 127.3;
+  --first-color: hsl(var(--hue-color), 73.46%, 51.14%);
+  --second-color: #000;
   --body-font: "Poppins", sans-serif;
   --big-font-size: 2rem;
   --h2-font-size: 1.25rem;
@@ -203,7 +203,7 @@ img {
   fill: var(--first-color);
 }
 .home__blob-img {
-  width: 360px;
+  width: 410px;
 }
 
 .button {

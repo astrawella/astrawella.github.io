@@ -4,9 +4,9 @@
     --header-height: 3rem;
     --font-semi: 600;
 
-    --hue-color: 109;
-    --first-color: hsl(var(--hue-color), 89%, 60%);
-    --second-color: hsl(var(--hue-color), 56%, 12%);
+    --hue-color: 127.3;
+    --first-color: hsl(var(--hue-color), 73.46%, 51.14%);
+    --second-color: #000;
 
     --body-font: 'Poppins', sans-serif;
 
@@ -206,7 +206,7 @@ img{
         fill: var(--first-color);
 
         &-img{
-            width: 360px;
+            width: 410px;
         }
     }
 }
