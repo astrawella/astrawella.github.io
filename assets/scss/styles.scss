@@ -54,12 +54,12 @@ ul{
 a{
     text-decoration: none;
 }
-img{
+img {
     max-width: 100%;
-    height: auto;
+    height: 100%;
     display: block;
-}
-
+    object-fit: cover;
+  }
 .section-title{
     position: relative;
     font-size: var(--h2-font-size);
